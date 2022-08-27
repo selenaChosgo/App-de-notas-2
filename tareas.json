@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "Compra semanal",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Ir a pagar servicios",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "repasar para curso de programación",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Bañar al perro",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Lavar los platos",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "una nueva tarea",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "ultima prueba",
+        "estado": "terminada"
+    }
+]
